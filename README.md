@@ -16,7 +16,7 @@ I'm a Software Developer and Student who is interested in learning and building 
 - Git & GitHub
 
 # 📫 Contact
-- GitHub: https://github.com/devcanade152-boop
-
+- Email: devcanda152@gmail.com
+- LinkedIn: www.linkedin.com/in/dev-canada-904343394
 
 
