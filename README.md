@@ -13,9 +13,9 @@
 
 ---
 
-<!-- Simulated slider using animated GIF badges -->
+<!-- Advanced Centered Slider with Icons -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF6A00&width=600&lines=Web+Developer;Software+Developer;Open+Source+Enthusiast;Problem+Solver" alt="Typing Slider"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF6A00&width=650&lines=💻+Software+Developer;🧩+Problem+Solver;🌐+Web+Developer;🚀+Open+Source+Enthusiast" alt="Typing Slider"/>
 </p>
 
 ---
