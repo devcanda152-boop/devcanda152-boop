@@ -1,29 +1,25 @@
 <h1 align="center">
-  <span style="background: linear-gradient(to right, #30CFD0 0%, #330867 100%);
-              -webkit-background-clip: text;
-              color: transparent;">
+  <span style="background: linear-gradient(to right, #ff6a00, #ee0979); -webkit-background-clip: text; color: transparent;">
     👋 Hi, I'm Ajitsinh Vaghela
   </span>
 </h1>
-<h3 align="center">💻 Software Developer | 🎓 Student | 🚀 Lifelong Learner</h3>
+<h3 align="center">💻 Software Developer | 🎓 Student | 🚀 Learner</h3>
 
 <p align="center">
-  Passionate about building software applications, solving problems, and exploring new technologies.
+  Building software applications, exploring new technologies, and solving problems.
 </p>
 
 ---
 
-## 🌱 Interests & Focus Areas
-<ul>
-  <li>🌐 <b>Web Development</b></li>
-  <li>💻 <b>Software Development</b></li>
-  <li>🚀 <b>Learning New Technologies</b></li>
-  <li>🧠 <b>Problem Solving</b></li>
-</ul>
+## 🌱 My Interests
+- 🌐 Web Development  
+- 💻 Software Development  
+- 🚀 Learning New Technologies  
+- 🧠 Problem Solving  
 
 ---
 
-## 🛠 Skills & Tech Stack
+## 🛠 My Skills
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&animation=glow" alt="HTML"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&animation=glow" alt="CSS"/>
@@ -46,7 +42,6 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
