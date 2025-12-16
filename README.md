@@ -1,34 +1,30 @@
 <h1 align="center">
-  <span style="background: linear-gradient(90deg, #ff6a00, #ee0979); 
-               -webkit-background-clip: text; color: transparent; animation: glow 2s ease-in-out infinite;">
+  <span style="background: linear-gradient(90deg, #ff6a00, #ee0979);
+               -webkit-background-clip: text; color: transparent;">
     👋 Hi, I'm Ajitsinh Vaghela
   </span>
 </h1>
+
 <h3 align="center">💻 Software Developer | 🎓 Student | 🚀 Lifelong Learner</h3>
 
 <p align="center">
-  Building web & software applications, exploring new technologies, and solving challenging problems.
+  Building modern web & software applications, exploring new technologies, and solving challenging problems.
 </p>
 
+---
+
+<!-- Simulated slider using animated GIF badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen" alt="Profile Views"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF6A00&width=600&lines=Web+Developer;Software+Developer;Open+Source+Enthusiast;Problem+Solver" alt="Typing Slider"/>
 </p>
 
 ---
 
 ## 🌱 About Me
-- 🔭 Currently learning **React.js**, **Next.js**, and **Cloud Deployment**  
-- 🌱 Passionate about **Web Development**, **Software Development**, and **Problem Solving**  
-- 💡 Enjoy contributing to **open-source projects** and participating in **coding challenges**  
-- 🎯 Goal: Grow as a full-stack developer and work on impactful projects  
-
----
-
-## 🌟 My Interests
-- 🌐 Web Development  
-- 💻 Software Development  
-- 🚀 Learning new technologies  
-- 🧠 Problem Solving  
+- 🔭 Currently learning **React.js, Next.js, and AWS Cloud Deployment**  
+- 🌱 Passionate about **Full Stack Development**  
+- 💡 Enjoy contributing to **Open Source** and solving coding challenges  
+- 🎯 Goal: Build impactful projects and grow as a software developer  
 
 ---
 
@@ -53,24 +49,26 @@
 
 ---
 
-## 📊 GitHub Stats (Advanced)
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak"/>
+  <!-- Real-time GitHub contribution stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 💡 Currently Learning
-- 🌐 React.js & Next.js for modern web applications  
-- ☁️ Cloud deployment using AWS & Netlify  
+- 🌐 React.js & Next.js for modern web apps  
+- ☁️ Cloud deployment with AWS & Netlify  
 - 📱 Mobile app development with React Native  
-- 🧩 Advanced algorithms and data structures  
+- 🧩 Advanced algorithms & data structures  
 
 ---
 
 ## ⚡ Challenges & Growth
-- Participating in **LeetCode** and **HackerRank** coding challenges  
-- Contributing to **open-source projects**  
-- Continuously improving **problem-solving and debugging skills**  
+- Participating in **LeetCode** and **HackerRank** challenges  
+- Contributing to **Open Source projects**  
+- Continuously improving **problem-solving & debugging skills**  
+
