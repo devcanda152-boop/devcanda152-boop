@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋 I'm Ajitsinh Vaghela
 
-<!--
-**devcanda152-boop/devcanda152-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Developer and Student who is interested in learning and building software applications.
 
-Here are some ideas to get you started:
+# 🌱 Interests & Technologies
+- Web Development
+- Software Development
+- Learning new technologies
+- Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🛠 Skills
+- HTML
+- CSS
+- JavaScript
+- Basics of Python
+- Git & GitHub
+
+# 📫 Contact
+- GitHub: https://github.com/devcanade152-boop
+
+
+
