@@ -13,9 +13,14 @@
 
 ---
 
-<!-- Simulated slider using animated GIF badges -->
+<!-- Advanced Animated Slider -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF6A00&width=600&lines=Web+Developer;Software+Developer;Open+Source+Enthusiast;Problem+Solver" alt="Typing Slider"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF6A00&width=650&lines=💻+Software+Developer;🧩+Problem+Solver;🌐+Web+Developer;🚀+Open+Source+Enthusiast" alt="Typing Slider"/>
+</p>
+
+<!-- Optional: Animated Gradient Background -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=ffffff&background=ff6a00,ee0979,00f0ff,6a00ff&width=650&lines=Building+Modern+Software+Applications;Solving+Challenging+Problems;Learning+New+Technologies" alt="Gradient Animated Slider"/>
 </p>
 
 ---
@@ -93,14 +98,4 @@
 
 
 
-
-<!-- Advanced Animated Slider -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF6A00&width=650&lines=💻+Software+Developer;🧩+Problem+Solver;🌐+Web+Developer;🚀+Open+Source+Enthusiast" alt="Typing Slider"/>
-</p>
-
-<!-- Optional: Animated Gradient Background -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=ffffff&background=ff6a00,ee0979,00f0ff,6a00ff&width=650&lines=Building+Modern+Software+Applications;Solving+Challenging+Problems;Learning+New+Technologies" alt="Gradient Animated Slider"/>
-</p>
 
