@@ -44,7 +44,7 @@
 <p align="center">
   <a href="mailto:devcanda152@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&animation=fade" alt="Email"/></a> &nbsp;
   <a href="https://www.linkedin.com/in/dev-canada-904343394"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=fade" alt="LinkedIn"/></a> &nbsp;
-  <a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&animation=fade" alt="GitHub"/></a>
+  <a href="https://github.com/devcanda152-boop"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&animation=fade" alt="GitHub"/></a>
 </p>
 
 ---
