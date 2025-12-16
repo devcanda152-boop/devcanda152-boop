@@ -49,12 +49,29 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Achievements & Learning Progress
+
+### 📚 Learning Path
+- 🌐 **Web Development:** HTML, CSS, JavaScript, Responsive Design  
+- 💻 **Software Development:** Python (Basics), Git & GitHub, Problem Solving  
+- ☁️ **Cloud & Deployment:** Currently exploring AWS & Netlify  
+- 📱 **Mobile Development:** Learning React Native for cross-platform apps  
+
+### 🎯 Achievements
+- ✅ Completed multiple **personal web projects**  
+- ✅ Participated in **LeetCode & HackerRank challenges**  
+- ✅ Contributed to **open-source projects on GitHub**  
+- ✅ Built and deployed **responsive web applications**  
+
+### 💡 Focus Areas
+- Full-stack web development using modern technologies  
+- Writing **clean, maintainable, and efficient code**  
+- Exploring **new frameworks and libraries** to stay updated  
+- Improving **problem-solving and debugging** skills daily  
+
 <p align="center">
-  <!-- Real-time GitHub contribution stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Progress-Continuous_Improvement-4CAF50?style=for-the-badge&logo=progress&logoColor=white" alt="Learning Progress"/>
+  <img src="https://img.shields.io/badge/Experience-Building_Projects-2196F3?style=for-the-badge&logo=projects&logoColor=white" alt="Experience"/>
 </p>
 
 ---
@@ -71,4 +88,3 @@
 - Participating in **LeetCode** and **HackerRank** challenges  
 - Contributing to **Open Source projects**  
 - Continuously improving **problem-solving & debugging skills**  
-
