@@ -1,3 +1,33 @@
+# Hi 👋, I'm Ajitsinh Vaghela
+### 💻 Software Developer | 🎓 Student
+
+Passionate about learning and building software applications.
+
+---
+
+## 🌱 Interests & Technologies
+- 🌐 Web Development
+- 💻 Software Development
+- 🚀 Learning New Technologies
+- 🧠 Problem Solving
+
+---
+
+## 🛠️ Skills
+**Languages & Tools:**  
+HTML | CSS | JavaScript | Python (Basics) | Git & GitHub  
+
+---
+
+## 📫 Contact Me
+- 📧 Email: [devcanda152@gmail.com](mailto:devcanda152@gmail.com)  
+- 💼 LinkedIn: [Ajitsinh Vaghela](https://www.linkedin.com/in/dev-canada-904343394)  
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 <h1 align="center">Hi 👋, I'm Ajitsinh Vaghela</h1>
 <h3 align="center">💻 Software Developer | 🎓 Student | 🚀 Lifelong Learner</h3>
 
