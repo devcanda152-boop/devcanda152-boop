@@ -1,29 +1,34 @@
 <h1 align="center">
-  <span style="background: linear-gradient(90deg, #ff6a00, #ee0979); -webkit-background-clip: text; color: transparent;">
+  <span style="background: linear-gradient(90deg, #ff6a00, #ee0979); 
+               -webkit-background-clip: text; color: transparent; animation: glow 2s ease-in-out infinite;">
     👋 Hi, I'm Ajitsinh Vaghela
   </span>
 </h1>
 <h3 align="center">💻 Software Developer | 🎓 Student | 🚀 Lifelong Learner</h3>
 
 <p align="center">
-  I build software applications, explore new technologies, and love solving challenging problems.
+  Building web & software applications, exploring new technologies, and solving challenging problems.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen" alt="Profile Views"/>
 </p>
 
 ---
 
-## 🌟 About Me
-- 🔭 I’m currently learning advanced web frameworks and cloud technologies  
-- 🌱 I’m passionate about full-stack development and problem-solving  
-- 💡 I enjoy working on projects that challenge my skills and creativity  
-- 🎯 I aim to contribute to open-source projects and grow as a developer  
+## 🌱 About Me
+- 🔭 Currently learning **React.js**, **Next.js**, and **Cloud Deployment**  
+- 🌱 Passionate about **Web Development**, **Software Development**, and **Problem Solving**  
+- 💡 Enjoy contributing to **open-source projects** and participating in **coding challenges**  
+- 🎯 Goal: Grow as a full-stack developer and work on impactful projects  
 
 ---
 
-## 🌱 My Interests
-- 🌐 **Web Development** – building responsive and user-friendly websites  
-- 💻 **Software Development** – designing scalable and maintainable applications  
-- 🚀 **Learning New Technologies** – always exploring new frameworks and tools  
-- 🧠 **Problem Solving** – participating in coding challenges and algorithms  
+## 🌟 My Interests
+- 🌐 Web Development  
+- 💻 Software Development  
+- 🚀 Learning new technologies  
+- 🧠 Problem Solving  
 
 ---
 
@@ -39,22 +44,6 @@
 
 ---
 
-## 📊 Skill Progress
-<p align="center">
-  HTML & CSS &nbsp; <img src="https://img.shields.io/badge/██████████-100%25-1abc9c?style=for-the-badge&logo=html5" alt="HTML CSS"/>
-</p>
-<p align="center">
-  JavaScript &nbsp; <img src="https://img.shields.io/badge/████████__-80%25-F1C40F?style=for-the-badge&logo=javascript" alt="JavaScript"/>
-</p>
-<p align="center">
-  Python &nbsp; <img src="https://img.shields.io/badge/██████____-60%25-3498db?style=for-the-badge&logo=python" alt="Python"/>
-</p>
-<p align="center">
-  Git & GitHub &nbsp; <img src="https://img.shields.io/badge/████████__-80%25-181717?style=for-the-badge&logo=git" alt="Git"/>
-</p>
-
----
-
 ## 📫 Connect with Me
 <p align="center">
   <a href="mailto:devcanda152@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&animation=fade" alt="Email"/></a> &nbsp;
@@ -64,24 +53,24 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats (Advanced)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 💡 What I'm Currently Learning
-- 🌐 React.js & Next.js for modern web development  
-- ☁️ Cloud deployment with AWS & Netlify  
+## 💡 Currently Learning
+- 🌐 React.js & Next.js for modern web applications  
+- ☁️ Cloud deployment using AWS & Netlify  
 - 📱 Mobile app development with React Native  
 - 🧩 Advanced algorithms and data structures  
 
 ---
 
-## ⚡ Fun Challenges
+## ⚡ Challenges & Growth
 - Participating in **LeetCode** and **HackerRank** coding challenges  
-- Exploring **open-source projects** and contributing to GitHub repositories  
+- Contributing to **open-source projects**  
 - Continuously improving **problem-solving and debugging skills**  
-
